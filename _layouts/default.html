@@ -64,6 +64,25 @@
           <li class="navbar-item"><a class="navbar-link" href="#members">Members</a></li>
           <li class="navbar-item"><a class="navbar-link" href="#publication">Publication</a></li>
           <li class="navbar-item"><a class="navbar-link" href="https://github.com/illidanlab/" target="_blank"><font color="#0db14b">Software</font></a></li>
+          <li class="navbar-item">
+            <a class="navbar-link" href="#" data-popover="#moreNavPopover">Lab Links</a>
+            <div id="moreNavPopover" class="popover">
+              <ul class="popover-list">
+                <li class="popover-item">
+                  <a class="popover-link" href="http://illidanlab.slack.com" target="blank">Slack</a>
+                </li>
+                <li class="popover-item">
+                  <a class="popover-link" href="https://github.com/illidanlab/labinfo" target="blank">Lab Docs</a>
+                </li>
+                <li class="popover-item">
+                  <a class="popover-link" href="https://github.com/illidanlab/labinfo/tree/master/seminars" target="blank">Seminar</a>
+                </li>
+                <li class="popover-item">
+                  <a class="popover-link" href="https://github.com/illidanlab/illidanlab.github.io" target="blank">Update Web</a>
+                </li>
+              </ul>
+            </div>
+          </li>
         </ul>
       </div>
     </nav>
@@ -71,7 +90,7 @@
     <section class="row">
         <div class="docs-section" id="about">
         <a name="about"></a>
-        <h6 data-magellan-destination="about" class="docs-header">About</h6>
+        <h6 data-magellan-destination="about" class="docs-header">About Illidan Lab</h6>
         {% capture introduction %}{% include introduction.md %}{% endcapture %}
         {{ introduction | markdownify }}
 
