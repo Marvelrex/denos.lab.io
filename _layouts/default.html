@@ -24,7 +24,6 @@
         <script src="https://cdn.rawgit.com/google/code-prettify/master/loader/run_prettify.js"></script>
         <link rel="stylesheet" href="css/github-prettify-theme.css">
         <script src="js/site.js"></script>
-        <!-- <link rel="stylesheet" href="/styles/main.css"> -->
         
         <!-- Favicon
         –––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -61,7 +60,6 @@
       <div class="container">
         <ul class="navbar-list">
           <li class="navbar-item"><a class="navbar-link" href="#about">About Us</a></li>
-          <li class="navbar-item"><a class="navbar-link" href="#news">News</a></li>
           <li class="navbar-item"><a class="navbar-link" href="#research">Research</a></li>
           <li class="navbar-item"><a class="navbar-link" href="#members">Members</a></li>
           <li class="navbar-item"><a class="navbar-link" href="#publication">Publication</a></li>
@@ -76,15 +74,12 @@
         <h6 data-magellan-destination="about" class="docs-header">About</h6>
         {% capture introduction %}{% include introduction.md %}{% endcapture %}
         {{ introduction | markdownify }}
+
+        <h6 class="docs-header">News</h6>
+        {% capture news %}{% include news.md %}{% endcapture %}
+        {{ news | markdownify }}
         </div>
     </section>
-
-    <!-- Recent News -->
-    <div class="docs-section" id="news">
-      <h6 class="docs-header">News</h6>
-      {% capture news %}{% include news.md %}{% endcapture %}
-      {{ news | markdownify }}
-    </div>
 
     <div class="docs-section" id="research">
       <h6 class="docs-header">Research Highlights</h6>
