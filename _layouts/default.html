@@ -1,0 +1,435 @@
+<!DOCTYPE html>
+<!-- use jekyll -->
+<html>
+    <head>
+        <meta charset="UTF-8">
+        
+        <!-- Mobile Specific Metas
+        –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <!-- FONT
+        –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+        <link href='//fonts.googleapis.com/css?family=Raleway:400,300,600' rel='stylesheet' type='text/css'>
+
+        <!-- CSS
+        –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+        <link rel="stylesheet" href="dist/css/normalize.css">
+        <link rel="stylesheet" href="dist/css/skeleton.css">
+        <link rel="stylesheet" href="css/custom.css">        
+
+        <!-- Scripts
+        –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+        <script src="https://cdn.rawgit.com/google/code-prettify/master/loader/run_prettify.js"></script>
+        <link rel="stylesheet" href="css/github-prettify-theme.css">
+        <!-- <link rel="stylesheet" href="/styles/main.css"> -->
+        
+        <title>Illidan Lab @ Michigan State University</title>
+        <style type="text/css" media="screen">
+          h1 { position:relative; letter-spacing: -1px; line-height: 60px; font-size: 60px; font-weight: 100; margin: 0px 0 0px 0; text-shadow: 0 1px 0 #fff; }
+        </style>
+    </head>
+
+<body class="code-snippets-visible">
+
+  <!-- Primary Page Layout
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <div class="container">
+
+    <section class="header">
+      <div class="row">
+        <div class="four columns">
+          <img class="value-img" width="250px" src="images/logo2.png">
+        </div>
+        <div class="six columns" align="left">
+        <br/>
+        </div>
+      </div>
+      <div class="row value-prop">
+      <div align="left">
+        <!-- <br/> -->
+        <p></p>
+        </div>
+      </div>
+    </section>
+
+    <div class="navbar-spacer"></div>
+    <nav class="navbar">
+      <div class="container">
+        <ul class="navbar-list">
+          <li class="navbar-item"><a class="navbar-link" href="#about">About Us</a></li>
+          <li class="navbar-item"><a class="navbar-link" href="#news">News</a></li>
+          <li class="navbar-item"><a class="navbar-link" href="#research">Research</a></li>
+          <li class="navbar-item"><a class="navbar-link" href="#members">Members</a></li>
+          <li class="navbar-item"><a class="navbar-link" href="#publication">Publication</a></li>
+          <li class="navbar-item"><a class="navbar-link" href="https://github.com/illidanlab/" target="_blank"><font color="#0db14b">Software</font></a></li>
+        </ul>
+      </div>
+    </nav>
+
+    <section class="row">
+        <div class="docs-section" id="about">
+        <a name="about"></a>
+        <h6 data-magellan-destination="about" class="docs-header">About</h6>
+        {% capture introduction %}{% include introduction.md %}{% endcapture %}
+        {{ introduction | markdownify }}
+        </div>
+    </section>
+
+    <!-- Recent News -->
+    <div class="docs-section" id="news">
+      <h6 class="docs-header">News</h6>
+      {% capture news %}{% include news.md %}{% endcapture %}
+      {{ news | markdownify }}
+    </div>
+
+    <div class="docs-section" id="research">
+      <h6 class="docs-header">Research Highlights</h6>
+
+       <p>Research in ILLIDAN Lab tackles a broad range of machine learning challenges, including but not limited to deep learning, sparse learning for high dimensional data analysis, transfer learning (multi-task and lifelong learning), information fusion from multiple data modalities, matrix completion and collaborative filtering, spatiotemporal analysis.</p>
+
+       <div class="row example">
+        <a class="example-screenshot-wrapper" target="_blank" href="http://www.malsar.org">
+          <img class="grayscale" src="images/highlight_mtl.jpg">
+        </a>
+        <div class="one-half offset-by-one-half column">
+          <h6 class="example-header">Learning from Multiple Tasks</h6>
+          <p class="example-description">Design learning formulations and optimization algorithms to learn multiple related machine learning tasks, performing inductive knowledge transfer among the tasks and improving generalization performance.</p>
+          <a class="button" href="http://www.malsar.org" target="_blank"><font color="#819a3b">MALSAR</font> Software</a>
+          <a class="button" href="https://www.siam.org/meetings/sdm12/zhou_chen_ye.pdf" target="_blank">Tutorial</a>
+        </div>
+      </div>
+      <div class="row example">
+        <div class="example-screenshot-wrapper">
+          <img class="grayscale" src="images/highlight_ad.jpg">
+        </div>
+        <div class="one-half offset-by-one-half column">
+          <h6 class="example-header">Progression of Alzheimer's Disease</h6>
+          <p class="example-description">Build machine learning models that understand disease progression and identify signaling biomarkers, from multiple data sources, including medical imaging, genotypes, and other clinical information.</p>
+          <a class="button" href="http://illidanlab.github.io/" target="_blank">More Info</a>
+        </div>
+      </div>
+      <div class="row example">
+        <div class="example-screenshot-wrapper">
+          <img class="grayscale" src="images/highlight_biomedical.jpg">
+        </div>
+        <div class="one-half offset-by-one-half column">
+          <h6 class="example-header">Biomedical Informatics</h6>
+          <p class="example-description">Develop efficient and effective machine learning techniques to build predictive models and perform computation phenotyping from large-scale electronic medical records. </p>
+          <a class="button" href="http://illidanlab.github.io/" target="_blank">More Info</a>
+        </div>
+      </div>
+      <div class="row example">
+        <div class="example-screenshot-wrapper">
+          <img class="grayscale" src="images/highlight_traffic.png">
+        </div>
+        <div class="one-half offset-by-one-half column">
+          <h6 class="example-header">Big Traffic Data Analytics</h6>
+          <p class="example-description">Analyzing trajectories behavior from big traffic data and develop high performance predictive models for traffic status prediction and dispatch optimization. </p>
+          <a class="button" href="http://illidanlab.github.io/" target="_blank">More Info</a>
+        </div>
+      </div>
+      <div class="row example">
+        <div class="example-screenshot-wrapper">
+          <a href="http://lagoslakes.org/" target="_blank"><img class="grayscale" src="images/highlight_limnology.png"></a>
+        </div>
+        <div class="one-half offset-by-one-half column">
+          <h6 class="example-header">Limnology</h6>
+          <p class="example-description">Develop spatiotemporal analytics tools to fuse heterogeneous data from different scales and model the dynamics of lake nutrients in United States. </p>
+          <a class="button" href="http://lagoslakes.org/" target="_blank">More Info</a>
+        </div>
+      </div>
+      <br/>
+      <p>ILLIDAN Lab is currently sponsored by <em>National Science Foundation</em> and <em>Office of Naval Research</em>. We would also like to thank NVIDIA Corporation for the donation of GPU cards.</p>
+    </div>
+
+    <div class="docs-section" id="members">
+       <h6 class="docs-header">Investigator</h6>
+        {% assign groups = site.team | group_by: "category" | sort: "name" | reverse %}
+        {% for group in groups %}
+          {% if group.name == "0" %}
+            {% for member in group.items %}
+              {% if member.year == null %}
+                {{ member.output }}
+              {% endif %}
+            {% endfor %}
+          {% endif %}
+        {% endfor %}
+       <br/>
+       <h6 class="docs-header">Lab Member</h6>
+        {% assign groups = site.team | group_by: "category" | sort: "name" | reverse %}
+        {% for group in groups %}
+          {% if group.name == "1" %}
+            {% for member in group.items %}
+              {% if member.year == null %}
+                {{ member.output }}
+              {% endif %}
+            {% endfor %}
+          {% endif %}
+        {% endfor %}
+       <br/>
+       <h6 class="docs-header">Undergraduate Students</h6>
+          <ul>
+             <li>Kangjie Mi, 2017 Spring</li>
+             <li>Jonathan Dowdall, 2017 Spring</li>
+          </ul>
+       <br/>
+       <h6 class="docs-header">Visitor</h6>
+        {% for group in groups %}
+          {% if group.name == "3" %}
+            <!-- <h4>{{ group.name }}</h4> -->
+            {% for member in group.items %}
+              {{ member.output }}
+            {% endfor %}
+          {% endif %}
+        {% endfor %}
+       <br/>
+       <h6 class="docs-header">Alumni</h6>
+        {% for group in groups %}
+          {% if group.name == "9" %}
+            <!-- <h4>{{ group.name }}</h4> -->
+            {% for member in group.items %}
+              {{ member.output }}
+            {% endfor %}
+          {% endif %}
+        {% endfor %}
+    </div>
+
+
+    <div class="docs-section" id="publication">
+      <h6 class="docs-header">Selected Publications</h6>
+      <ul>
+        <li><i>The added value of diffusion MRI in evaluating mild cognitive impairment: a multi-cohort validation. </i><br>
+            Qi Wang, Lei Guo, Paul M. Thompson, Clifford R. Jack Jr., Hiroko Dodge, Liang Zhan, and Jiayu Zhou. <br>
+            Submitted, 2017 <!-- <a href="#">[Preprint]</a> -->
+        </li>
+
+        <li><i>An MCEM Framework for Drug Safety Signal Detection and Combination from Heterogeneous Real World Evidence. </i><br>
+            Cao Xiao, Ying Li, Inci Baytas, Jiayu Zhou, and Fei Wang. <br>
+            Submitted, 2017 <!-- <a href="#">[Preprint]</a> -->
+        </li>
+
+        <li><i>Identifying Drug-Drug Interactions via Deep Multi-Task Learning. </i><br>
+            Kaixiang Lin, Danica Xiao, Fei Wang and Jiayu Zhou. <br>
+            Submitted, 2017 <!-- <a href="#">[Preprint]</a> -->
+        </li>
+
+        <li><i>Collaborative Deep Reinforcement Learning. </i><br>
+            Kaixiang Lin, Shu Wang and Jiayu Zhou. <br>
+            Preprint, 2017 <a href="https://arxiv.org/pdf/1702.05796.pdf">[PDF]</a>
+        </li>
+
+        <li><i>Recurrent Encoder-Decoder Networks for Time-Varying Dense Prediction.</i><br>
+            Tao Zeng, Bian Wu, Jiayu Zhou, Ian Davidson and Shuiwang Ji.<br>
+            <b>ICDM</b> 2017 <a href="#">[Accepted]</a>
+        </li>
+
+        <li><i>Multi-Level Multi-Task Learning for Modeling Cross-Scale Interactions in Nested Geospatial Data.</i><br>
+            Shuai Yuan, Jiayu Zhou, Pang-Ning Tan, Emi Fergus, Tyler Wagner and Patricia Soranno.<br>
+            <b>ICDM</b> 2017 <a href="#">[Accepted]</a>
+        </li>
+
+        <li><i>Multi-task Survival Analysis.</i><br>
+            Lu Wang, Yan Li, Jiayu Zhou, Dongxiao Zhu and Jieping Ye.<br>
+            <b>ICDM</b> 2017 <a href="#">[Accepted]</a>
+        </li>
+
+        <li><i>Multi-Modality Disease Modeling via Collective Deep Matrix Factorization. </i><br>
+            Qi Wang, Mengying Sun, Liang Zhan, Paul Thompson, Shuiwang Ji and Jiayu Zhou. <br>
+            <b>KDD</b> 2017 <a href="#">[To Appear]</a>
+        </li>
+
+        <li><i>Privacy-Preserving Distributed Multi-Task Learning with Asynchronous Updates. </i><br>
+            Liyang Xie, Inci Baytas, Kaixiang Lin and Jiayu Zhou. <br>
+            <b>KDD</b> 2017 <a href="#">[To Appear]</a>
+        </li>
+
+        <li><i>Patient Subtyping via Time-Aware LSTM Networks. </i><br>
+            Inci Baytas, Cao Xiao, Xi Zhang, Fei Wang, Anil Jain and Jiayu Zhou. <br>
+            <b>KDD</b> 2017 <a href="#">[To Appear]</a>
+        </li>
+
+        <li><i>Missing Modalities Imputation via Cascaded Residual Autoencoder. </i><br/>
+            Luan Tran, Xiaoming Liu, Jiayu Zhou and Rong Jin. <br/>
+            <b>CVPR</b> 2017 <a href="http://cse.msu.edu/~tranluan/publication/allPublication/2017/CVPR_CRA.pdf">[Paper]</a>
+        </li>
+
+        <li><i>An RNN Architecture with Dynamic Temporal Matching for Personalized Predictions of Parkinson's Disease. </i><br>
+            Chao Che, Cao Xiao, Jian Liang, Bo Jin, Jiayu Zhou and Fei Wang. <br>
+            <b>SDM</b> 2017 <a href="papers/xcaoSDM17.pdf">[Paper]</a>
+        </li>
+
+        <li><i>WISDOM: Weighted Incremental Spatio-Temporal Multi-Task Learning via Tensor Decomposition.</i><br>
+            Jianpeng Xu, Jiayu Zhou, Pang-Ning Tan, Xi Liu and Lifeng Luo.<br>
+            <b>IEEE Big Data</b> 2016 <a href="http://www.cse.msu.edu/~ptan/papers/wisdom.pdf">[Paper]</a>
+            <strong>Best Paper Award</strong>
+        </li>
+        <li><i>PhenoTree: Interactive Visual Analytics for Hierarchical Phenotyping from Large-Scale Electronic Health Records.</i><br>
+            Inci M. Baytas, Kaixiang Lin, Fei Wang, Anil K. Jain and Jiayu Zhou.<br>
+            <b>IEEE Transaction on Multimedia</b> 2016 <a href="http://ieeexplore.ieee.org/document/7577842/">[Paper]</a>
+        </li>
+        <li><i>Interactive Multi-Task Relationship Learning.</i><br>
+            Kaixiang Lin and Jiayu Zhou.<br>
+            <b>ICDM</b> 2016 <a href="papers/klinICDM16.pdf">[Paper]</a>
+        </li>
+
+        <li><i>Asynchronous Multi-Task Learning.</i><br>
+            Inci M. Baytas, Ming Yan, Anil K. Jain and Jiayu Zhou.<br>
+            <b>ICDM</b> 2016 <a href="papers/ibaytasICDM16.pdf">[Paper]</a><a href="https://github.com/illidanlab/AMTL">[Code]</a>
+        </li>
+
+        <li><i>Robust Convex Clustering Analysis.</i><br>
+            Qi Wang, Pinghua Gong, Shiyu Chang, Thomas S. Huang and Jiayu Zhou.<br>
+            <b>ICDM</b> 2016 <a href="papers/qwangICDM16.pdf">[Paper]</a><a href="https://github.com/illidanlab/ConvexClustering">[Code]</a>
+        </li>
+
+        <li><i>Stochastic Convex Sparse Principal Component Analysis.</i><br>
+            Inci M. Baytas, Kaixiang Lin, Fei Wang, Anil K. Jain and Jiayu Zhou.<br>
+            EURASIP Journal on Bioinformatics and Systems Biology, 2016 <a href="http://www.bsb.eurasipjournals.com/content/2016/1/15" target="blank">[Paper]</a>
+        </li>
+
+        <li><i>Multi-Task Feature Interaction Learning.</i><br>
+            Kaixiang Lin, Jianpeng Xu, Inci M. Baytas, Shuiwang Ji and Jiayu Zhou.<br>
+            <b>KDD</b> 2016 <a href="papers/klinKDD16.pdf">[Paper]</a>
+        </li>
+
+        <li><i>Discriminative Fusion of Multiple Brain Networks for Early Mild Cognitive Impairment Detection.</i><br>
+            Qi Wang, Liang Zhan, Paul M. Thompson, Hiroko H. Dodge and Jiayu Zhou. <br>
+            <b>ISBI</b> 2016 <a href="papers/qwangISBI16.pdf">[Paper]</a> 
+            <strong>Best Student Paper Award</strong>
+        </li>
+
+        <li><i>Synergies that Matter: Efficient Interaction Selection via Sparse Factorization Machine.</i><br>
+            Jianpeng Xu, Kaixiang Lin, Pang-Ning Tan and Jiayu Zhou. <br>
+            <b>SDM</b> 2016 <a href="papers/jxuSDM16b.pdf">[Paper]</a>
+        </li>
+
+        <li><i>GSpartan: a Geospatio-Temporal Multi-task Learning Framework for Multi-location.</i><br>
+            Jianpeng Xu, Lifeng Luo, Pang-Ning Tan and Jiayu Zhou. <br>
+            <b>SDM</b> 2016 <a href="papers/jxuSDM16a.pdf">[Paper]</a>
+        </li>
+
+        <li><i>Learning A Task-Specific Deep Architecture for Clustering.</i><br>
+            Zhangyang Wang, Shiyu Chang, Jiayu Zhou, Meng Wang and Thomas Huang. <br>
+            <b>SDM</b> 2016 <a href="papers/zwangSDM16.pdf">[Paper]</a>
+        </li>
+
+        <li><i>A Space Alignment Method for Cold-Start TV Show Recommendations.</i><br>
+            *Shiyu Chang, Jiayu Zhou, Pirooz Chubak, Junling Hu and Thomas Huang.<br>
+            <b>IJCAI</b> 2015 <a href="http://dl.acm.org/citation.cfm?id=2832581.2832719">[Paper]</a>  <strong>Samsung Best Paper Award 2014 </strong> finalist
+        </li>
+
+        <li><i>Who, What, When, and Where: Multi-Dimensional Collaborative Recommendations 
+               using Tensor Factorization on Sparse User-Generated Data.</i><br>
+            *Preeti Bhargava, Thomas Phan, Jiayu Zhou, and Juhan Lee.<br>
+            <b>WWW</b> 2015 <a href="papers/jzhouWWW15.pdf">[Paper]</a>
+        </li>
+
+        <li><i>Factorized Bilinear Similarity for Cold-Start Item Recommendations.</i> <br>
+              *Mohit Sharma, Jiayu Zhou, George Karypis, and Junling Hu. <br>
+              <b>SDM</b> 2015 <a href="papers/jzhouSDM15a.pdf">[Paper]</a>
+        </li>
+
+        <li><i>Formula: FactORized MUlti-task LeArning for Task Discovery in Personalized Medical Models. </i><br>
+              *Jianpeng Xu, Jiayu Zhou, and Pang-Ning Tan.<br>
+              <b>SDM</b> 2015 <a href="papers/jzhouSDM15b.pdf">[Paper]</a>
+        </li>
+
+        <li><i>Factorized Similarity Learning in Networks. </i><br>
+              *Shiyu Chang, Guo-Jun Qi, Charu Aggarwal, Jiayu Zhou, Meng Wang, and Thomas Huang. <br>
+              <b>ICDM</b> 2014 <a href="http://charuaggarwal.net/fsl.pdf" target="blank">[Paper]</a>
+              <strong>Best Student Paper Award</strong>
+        </li>
+
+        <li><i>A Safe Screening Rule for Sparse Logistic Regression. </i><br>
+            Jie Wang, Jiayu Zhou, Jun Liu, Peter Wonka, Jieping Ye. <br>
+            <b>NIPS</b> 2014 <a href="http://arxiv.org/abs/1307.4145">[Paper]</a>
+        </li>
+
+        <li><i>From Micro to Macro: Data Driven Phenotyping by Densification of Longitudinal Electronic Medical Records.</i><br>
+            Jiayu Zhou, Fei Wang, Jianying Hu, Jieping Ye.  <br>
+            <b>KDD</b> 2014 <a href="papers/jzhouKDD14.pdf">[Paper]</a>
+            <a href="http://www.MALSAR.org">[Code]</a>.
+        </li>
+
+        <li><i>Efficient Multi-Task Feature Learning with Calibration.</i><br>
+        Pinghua Gong, Jiayu Zhou, Jieping Ye. <br>
+            <b>KDD</b> 2014 <a href="http://www.public.asu.edu/~pgong5/papers/KDD2014_MTLFC.pdf">[Paper]</a>
+            <a href="http://www.MALSAR.org">[Code]</a>
+        </li>
+
+        <li><i>Analysis of Sampling Techniques for Imbalanced Data: An N=648 ADNI Study.</i><br>
+        Rashmi Dubey, Jiayu Zhou, Yalin Wang, Paul M. Thompson, and Jieping Ye.  <br>
+            <b>NeuroImage</b> 2014 <em>5-Year Impact Factor: 7.063</em>.
+            <a href="http://www.sciencedirect.com/science/article/pii/S1053811913010161">[Paper]</a>
+        </li>
+
+        <li><i>Active Matrix Completion.</i><br>
+        Shayok Chakraborty, Jiayu Zhou, Vineeth Balasubr., Sethuraman Panch., Ian Davidson, and Jieping Ye <br>
+            <b>ICDM</b> 2013
+            <a href="http://dx.doi.org/10.1109/ICDM.2013.69">[Paper]</a>
+        </li>
+
+        <li><i>Lasso Screening Rules via Dual Polytope Projection. </i><br>
+        Jie Wang, Jiayu Zhou, Peter Wonka, Jieping Ye. <br>
+            <b>NIPS</b> 2013 <a href="http://papers.nips.cc/paper/4892-lasso-screening-rules-via-dual-polytope-projection">[Paper]</a>
+            <strong>Spotlight</strong>
+        </li>
+
+        <li><i>FeaFiner: Biomarker Identification from Medical Data through Feature Generalization and Selection.</i><br>
+        Jiayu Zhou, Zhaosong Lu, Jimeng Sun, Lei Yuan, Fei Wang, Jieping Ye. <br>
+            <b>KDD</b> 2013 <a href="papers/jzhouKDD13.pdf">[Paper]</a>
+            <a href="papers/jzhouKDD13_supp.pdf">[Supplemental]</a>
+        </li>
+
+        <li><i>Modeling Disease Progression via Multi-task Learning.</i><br>
+        Jiayu Zhou, Jun Liu, Vaibhav A. Narayan, and Jieping Ye. <br>
+        <b>NeuroImage</b> 2013 <em>5-Year Impact Factor: 7.063</em>.
+            <a href="http://www.ncbi.nlm.nih.gov/pubmed/23583359">[Paper]</a>
+            <a href="http://www.MALSAR.org">[Code]</a>
+        </li>
+
+        <li><i>Patient Risk Prediction Model via Top-k Stability Selection.</i><br>
+        Jiayu Zhou, Jimeng Sun, Yashu Liu, Jianying Hu, and Jieping Ye. <br>
+        <b>SDM</b> 2013 <a href="papers/jzhouSDM13.pdf">[Paper]</a> <a href="papers/jzhouSDM13_appendix.pdf">[Supplimental]</a>
+        </li>
+
+        <li><i>Modeling Disease Progression via Fused Sparse Group Lasso. </i><br>
+        Jiayu Zhou, Jun Liu, Vaibhav A. Narayan, and Jieping Ye. <br>
+        <b>KDD</b> 2012 <a href="papers/jzhouKDD12.pdf">[Paper]</a>  
+        <a href="http://www.MALSAR.org">[Code]</a> <strong>Best Video Award</strong> <a href="http://kdd2012.sigkdd.org/best_video_award.shtml">[Info]</a> </li>
+
+        <li><i>Clustered Multi-Task Learning via Alternating Structure Optimization.</i> <br>
+        Jiayu Zhou, Jianhui Chen and Jieping Ye. <br>
+        <b>NIPS</b> 2011 <a href="papers/jzhouNIPS11.pdf">[Paper]</a>
+        <a href="http://www.MALSAR.org">[Code]</a>
+        </li>
+
+        <li><i>Integrating Low-Rank and Group-Sparse Structures for Robust Multi-Task Learning. </i><br>
+        Jianhui Chen, Jiayu Zhou, Jieping Ye. <br>
+        <b>KDD</b> 2011 <a href="papers/jchenKDD11.pdf">[Paper]</a>
+        <a href="http://www.MALSAR.org">[Code]</a>
+        </li>
+
+        <li><i>A Multi-Task Learning Formulation for Predicting Disease Progression. </i><br>
+        Jiayu Zhou, Lei Yuan, Jun Liu and Jieping Ye. <br>
+        <b>KDD</b> 2011 <a href="papers/jzhouKDD11.pdf">[Paper]</a> 
+        <a href="http://www.MALSAR.org">[Code]</a>
+        </li>
+      </ul>
+    </div>
+
+    <!-- <div class="docs-section" id="quote">
+      <h6 class="docs-header">Some words keep me moving forward</h6>
+      <p><em>A job well done is its own reward. You take pride in the things you do, not for others to see, not for the respect, or glory, or any other rewards it might bring. You take pride in what you do, because you're doing your best. If you believe in something, you stick with it. When things get difficult, you try harder. </em></p>
+    </div> -->
+
+    <div align="center">
+    Last updated on Sept 2017
+    <br />
+    <br />
+    </div>
+  </div>
+
+</html>

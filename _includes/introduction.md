@@ -1,0 +1,3 @@
+The Intelligent Data Analytics (ILLIDAN) Lab, affiliated with [Computer Science & Engineering](http://www.cse.msu.edu/), Michigan State University conducts cutting-edge research on machine learning methodologies for big data analytics. ILLIDAN lab designs scalable machine learning algorithms, creates open source machine learning software, and develops powerful machine learning for applications in health informatics, big traffic analytics, and other scientific areas.  
+
+ILLIDAN lab is currently looking for motivated Ph.D. students and post-doctoral researchers on machine learning research. Interested candidates please [email](mailto:jiayuz@msu.edu) your CV and transcripts.

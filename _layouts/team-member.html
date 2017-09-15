@@ -1,0 +1,11 @@
+<div class="row example">
+    <div class="example-profile-wrapper">
+        <img src="{{ page.picture }}" alt="{{ page.name }}" class="picture" width="100px">
+    </div>
+    <div class="two offset-by-two column">
+        <!-- <h3> -->
+            <b><a href="mailto:{{ page.email }}">{{ page.name }}</a></b>
+            &nbsp; {{ page.title }}
+        {{ content }}
+    </div>
+</div>
