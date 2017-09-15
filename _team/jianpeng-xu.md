@@ -8,6 +8,6 @@ category: 9
 ---
 
 <br/>
-Areas of Study: Multi-Task Learning, Spatiotemporal Analysis
+Areas of Study: multi-task learning, spatiotemporal analysis
 <br/>
 Links: [Website](http://jianpeng-xu.github.io/), [Google Scholar](https://scholar.google.com/citations?user=nLcsaboAAAAJ&hl=en), [LinkedIn](http://www.linkedin.com/pub/jianpeng-xu/27/4b4/a39)

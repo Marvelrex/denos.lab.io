@@ -8,6 +8,6 @@ category: 1
 ---
 
 <br/>
-Areas of Interest: multi-modality data fusion, limnology, biomedical informatics
+Areas of Study: multi-modality data fusion, limnology, biomedical informatics
 <br/>
 Links: [Website](#), [Google Scholar](#), [GitHub](#)

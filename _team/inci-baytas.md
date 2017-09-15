@@ -8,6 +8,6 @@ category: 1
 ---
 
 <br/>
-Areas of Interest: recurrent neural network, hyper-edge network, medical informatics
+Areas of Study: recurrent neural network, hyper-edge network, medical informatics
 <br/>
 Links: [Website](#), [Google Scholar](#), [GitHub](#)

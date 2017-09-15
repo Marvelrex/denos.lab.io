@@ -8,6 +8,6 @@ category: 1
 ---
 
 <br/>
-Areas of Interest: deep reinforcement learning, traffic analytics 
+Areas of Study: deep reinforcement learning, traffic analytics 
 <br/>
 Links: [Website](https://kaixianglin.github.io/), [Google Scholar](https://scholar.google.com/citations?user=egq785sAAAAJ&hl=en), [GitHub](https://github.com/KaixiangLin)

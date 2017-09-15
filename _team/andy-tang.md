@@ -8,6 +8,6 @@ category: 1
 ---
 
 <br/>
-Areas of Interest: biomedical informatics
+Areas of Study: biomedical informatics
 <br/>
 Links: [Website](#), [Google Scholar](#), [GitHub](#)

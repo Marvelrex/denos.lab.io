@@ -8,6 +8,6 @@ category: 1
 ---
 
 <br/>
-Areas of Interest: statistical modeling, imaging genetics 
+Areas of Study: statistical modeling, imaging genetics 
 <br/>
 Links: [Website](http://www.mengying.org), [Google Scholar](#), [GitHub](https://github.com/mengyings)

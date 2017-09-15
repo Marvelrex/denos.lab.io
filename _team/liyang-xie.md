@@ -8,6 +8,6 @@ category: 1
 ---
 
 <br/>
-Areas of Interest: differential privacy, multi-task learning 
+Areas of Study: differential privacy, multi-task learning 
 <br/>
 Links: [Website](#), [Google Scholar](#), [GitHub](#)
