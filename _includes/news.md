@@ -1,6 +1,6 @@
 - [August 2017] Three papers accepted by ICDM 2017. 
 - [May 2017] Three papers accepted by KDD 2017.  
 - [Dec 2016] One paper received IEEE Big Data 2016 Best Paper Award. 
-- [Sep 2016] Three papers accepted by ICDM 2016. Congratulations to the authors. 
-- [May 2016] One paper accepted by KDD 2016. Congratulations to the authors. 
+- [Sep 2016] Three papers accepted by ICDM 2016. 
+- [May 2016] One paper accepted by KDD 2016. 
 - [Apr 2016] Qi Wang received ISBI 2016 Best Student Paper Award.
