@@ -59,13 +59,13 @@
     <nav class="navbar">
       <div class="container">
         <ul class="navbar-list">
-          <li class="navbar-item"><a class="navbar-link" href="#about">About Us</a></li>
+          <li class="navbar-item"><a class="navbar-link" href="#about">About Illidan</a></li>
           <li class="navbar-item"><a class="navbar-link" href="#research">Research</a></li>
           <li class="navbar-item"><a class="navbar-link" href="#members">Members</a></li>
           <li class="navbar-item"><a class="navbar-link" href="#publication">Publication</a></li>
           <li class="navbar-item"><a class="navbar-link" href="https://github.com/illidanlab/" target="_blank"><font color="#0db14b">Software</font></a></li>
           <li class="navbar-item">
-            <a class="navbar-link" href="#" data-popover="#moreNavPopover">Lab Links</a>
+            <a class="navbar-link" href="#" data-popover="#moreNavPopover">Links</a>
             <div id="moreNavPopover" class="popover">
               <ul class="popover-list">
                 <li class="popover-item">
@@ -90,18 +90,17 @@
       </div>
     </nav>
 
-    <section class="row">
-        <div class="docs-section" id="about">
-        <a name="about"></a>
-        <h6 data-magellan-destination="about" class="docs-header">About Illidan Lab</h6>
-        {% capture introduction %}{% include introduction.md %}{% endcapture %}
-        {{ introduction | markdownify }}
+    
+    <div class="docs-section" id="about">
+      <h6 data-magellan-destination="about" class="docs-header">About Illidan Lab</h6>
+      {% capture introduction %}{% include introduction.md %}{% endcapture %}
+      {{ introduction | markdownify }}
 
-        <h6 class="docs-header">News</h6>
-        {% capture news %}{% include news.md %}{% endcapture %}
-        {{ news | markdownify }}
-        </div>
-    </section>
+      <h6 class="docs-header">News</h6>
+      {% capture news %}{% include news.md %}{% endcapture %}
+      {{ news | markdownify }}
+    </div>
+    
 
     <div class="docs-section" id="research">
       <h6 class="docs-header">Research Highlights</h6>
@@ -439,11 +438,6 @@
       </ul>
     </div>
 
-    <!-- <div class="docs-section" id="quote">
-      <h6 class="docs-header">Some words keep me moving forward</h6>
-      <p><em>A job well done is its own reward. You take pride in the things you do, not for others to see, not for the respect, or glory, or any other rewards it might bring. You take pride in what you do, because you're doing your best. If you believe in something, you stick with it. When things get difficult, you try harder. </em></p>
-    </div> -->
-
     <div align="center">
     Last <a href="https://github.com/illidanlab/illidanlab.github.io" target="_blank">updated</a> on Sept 2017
     <br />
@@ -451,4 +445,5 @@
     </div>
   </div>
 
+</body>
 </html>
