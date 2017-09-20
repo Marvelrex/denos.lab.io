@@ -10,4 +10,4 @@ category: 3
 <br/>
 Areas of Study: Natural languge processing, medical informatics
 <br/>
-Links: [Website](#), [Google Scholar](#)
+Links: [Github](https://github.com/harrycheng20)
