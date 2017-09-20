@@ -10,4 +10,4 @@ category: 1
 <br/>
 Areas of Study: spatiotemporal modeling, limnology 
 <br/>
-Links: [Website](#), [Google Scholar](#), [GitHub](https://github.com/mengyings)
+Links: [Website](#), [Google Scholar](#), [GitHub](https://github.com/bachscribain)
