@@ -10,4 +10,4 @@ category: 1
 <br/>
 Areas of Study: multi-modality data fusion, limnology, biomedical informatics
 <br/>
-Links: [Website](#), [Google Scholar](#), [GitHub](#)
+Links: [GitHub](https://github.com/wangqi1919)
