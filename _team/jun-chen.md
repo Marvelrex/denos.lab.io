@@ -10,4 +10,4 @@ category: 3
 <br/>
 Areas of Study: multi-source information fusion, disease progression
 <br/>
-Links: [Website](#), [Google Scholar](#)
+Links: [Website](https://medicine.umich.edu/dept/dcmb/jun-chen), [Google Scholar](#), [Github](https://github.com/junchenum)
