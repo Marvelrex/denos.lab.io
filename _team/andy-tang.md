@@ -10,4 +10,4 @@ category: 1
 <br/>
 Areas of Study: biomedical informatics
 <br/>
-Links: [Website](#), [Google Scholar](#), [GitHub](#)
+Links: [Website](#), [Google Scholar](#), [GitHub](https://github.com/af1tang)
