@@ -10,4 +10,4 @@ category: 1
 <br/>
 Areas of Study: statistical modeling, imaging genetics 
 <br/>
-Links: [Website](http://www.mengying.org), [Google Scholar](#), [GitHub](https://github.com/mengyings)
+Links: [Website](http://www.mengying.org), [GitHub](https://github.com/mengyings)
