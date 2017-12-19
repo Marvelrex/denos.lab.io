@@ -190,6 +190,17 @@
             {% endfor %}
           {% endif %}
         {% endfor %}
+
+        {% assign groups = site.team | group_by: "category" | sort: "name" | reverse %}
+        {% for group in groups %}
+          {% if group.name == "2" %}
+            {% for member in group.items %}
+              {% if member.year == null %}
+                {{ member.output }}
+              {% endif %}
+            {% endfor %}
+          {% endif %}
+        {% endfor %}
        <br/>
        <h6 class="docs-header">Undergraduate Students</h6>
           <ul>

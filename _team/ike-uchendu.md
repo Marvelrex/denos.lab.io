@@ -4,7 +4,7 @@ name: Ikechukwu Uchendu
 title: Lab member since 2018, Master Student
 picture: /images/profile/ike-uchendu.jpg
 email: uchendui@msu.edu
-category: 1
+category: 2
 ---
 
 <br/>
