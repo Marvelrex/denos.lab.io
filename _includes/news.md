@@ -1,3 +1,4 @@
+- [May 2018] Four papers accepted by KDD 2018.
 - [August 2017] Three papers accepted by ICDM 2017. 
 - [May 2017] Three papers accepted by KDD 2017.  
 - [Dec 2016] One paper received IEEE Big Data 2016 Best Paper Award. 
