@@ -190,7 +190,7 @@
           {% endif %}
         {% endfor %}
        <br/>
-       <h6 class="docs-header">Lab Member</h6>
+       <h6 class="docs-header">Lab Members</h6>
         {% assign groups = site.team | group_by: "category" | sort: "name" | reverse %}
         {% for group in groups %}
           {% if group.name == "1" %}
