@@ -1,3 +1,4 @@
+- [Dec 2018] Two papers accepted by SDM 2019.
 - [Aug 2018] Two papers accepted by ICDM 2018.
 - [May 2018] Four papers accepted by KDD 2018.
 - [Aug 2017] Three papers accepted by ICDM 2017. 
