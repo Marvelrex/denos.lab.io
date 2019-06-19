@@ -1,10 +1,10 @@
 ---
 layout: team-member
 name: Liyang Xie
-title: Lab member since 2016, Ph.D. Student
+title: Lab member since 2016, M.Sc graduated in 2019
 picture: /images/profile/liyang-xie.jpg
 email: xieliyan@msu.edu
-category: 1
+category: 9
 ---
 
 <br/>
