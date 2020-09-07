@@ -1,10 +1,10 @@
 ---
 layout: team-member
 name: Ikechukwu Uchendu
-title: Lab member since 2018, Master Student
+title: Lab member since 2018, M.S. Graduated in 2020
 picture: /images/profile/ike-uchendu.jpg
 email: uchendui@msu.edu
-category: 2
+category: 9
 ---
 
 <br/>

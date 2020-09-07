@@ -1,10 +1,10 @@
 ---
 layout: team-member
 name: Kaixiang Lin
-title: Lab member since 2015, Ph.D. Student
+title: Lab member since 2015, Ph.D. Graduated in 2020
 picture: /images/profile/kaixiang-lin.jpg
 email: linkaixi@msu.edu
-category: 1
+category: 9
 ---
 
 <br/>

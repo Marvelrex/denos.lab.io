@@ -1,10 +1,10 @@
 ---
 layout: team-member
 name: Qi Wang
-title: Lab member since 2015, Ph.D. Student
+title: Lab member since 2015, Ph.D. Graduated in 2020
 picture: /images/profile/qi-wang.jpg
 email: wangqi19@msu.edu
-category: 1
+category: 9
 ---
 
 <br/>

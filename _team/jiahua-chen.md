@@ -1,10 +1,10 @@
 ---
 layout: team-member
 name: Jiahua Chen
-title: Visiting since 2018, Master student in UMich
+title: Visited in 2018, Master student in UMich
 picture: /images/profile/jiahua-chen.jpg
 email: chenjiahua199494@gmail.com
-category: 3
+category: 9
 ---
 
 <br/>
