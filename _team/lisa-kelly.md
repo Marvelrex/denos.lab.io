@@ -1,10 +1,10 @@
 ---
 layout: team-member
 name: Lisa Kelly
-title: Volunteer since 2018, graduate from MSU
+title: Volunteered 2018-2019, graduate from MSU
 picture: /images/profile/lisa-kelly.jpg
 email: lisakelly42@gmail.com
-category: 3
+category: 9
 ---
 
 <br/>
