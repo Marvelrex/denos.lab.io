@@ -5,4 +5,4 @@ This is the website of the ILLIDAN Lab group.
 
 Maintenance Instructions
 ------------------------
-TBA
+This website can be hosted using [Jekyll](https://jekyllrb.com/). 
