@@ -1,12 +1,6 @@
-- [Dec 2019] One Paper accepted by ICLR 2020.
+- [Aug 2020] Two papers accepted by ICDM 2020.
+- [Jul 2020] Qi and Kaixiang have suceessful defended their dissertations and joined Facebook and Amazon, respectively. Congratulations! 
+- [May 2020] One paper accepted by KDD 2020. 
+- [Dec 2019] One paper accepted by ICLR 2020.
 - [Nov 2019] One paper accepted by AAAI 2020.
 - [May 2019] Three papers accepted by KDD 2019.
-- [Dec 2018] Two papers accepted by SDM 2019.
-- [Aug 2018] Two papers accepted by ICDM 2018.
-- [May 2018] Four papers accepted by KDD 2018.
-- [Aug 2017] Three papers accepted by ICDM 2017. 
-- [May 2017] Three papers accepted by KDD 2017.  
-- [Dec 2016] One paper received IEEE Big Data 2016 Best Paper Award. 
-- [Sep 2016] Three papers accepted by ICDM 2016. 
-- [May 2016] One paper accepted by KDD 2016. 
-- [Apr 2016] Qi Wang received ISBI 2016 Best Student Paper Award.
