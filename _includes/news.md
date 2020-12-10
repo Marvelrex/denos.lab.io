@@ -1,4 +1,4 @@
-- [Dec 2020] One paper accepted by AAAI 2020.
+- [Dec 2020] One paper accepted by AAAI 2021.
 - [Sep 2020] Check out our latest <a href="https://arxiv.org/abs/2009.07888" target="_blank">transfer learning review</a>.
 - [Sep 2020] One paper accepted by NeurIPS 2020. 
 - [Aug 2020] Two papers accepted by ICDM 2020.
