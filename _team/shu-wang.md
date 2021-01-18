@@ -4,7 +4,7 @@ name: Shu Wang
 title: Visiting/consultant since 2016, Ph.D. student in Rugters
 picture: /images/profile/shu-wang.jpg
 email: shuwang.rutgers@gmail.com
-category: 3
+category: 9
 ---
 
 <br/>
