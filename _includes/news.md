@@ -1,4 +1,4 @@
-- [2021] Two papers accepted by ICML, one paper by IJCAI, one paper by MobiSys
+- [2021] Two papers accepted by ICML, two papers by KDD, one paper by IJCAI, one paper by MobiSys.
 - [Dec 2020] One paper accepted by AAAI 2021.
 - [Sep 2020] Check out our latest <a href="https://arxiv.org/abs/2009.07888" target="_blank">transfer learning review</a>.
 - [Sep 2020] One paper accepted by NeurIPS 2020. 
