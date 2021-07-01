@@ -1,7 +1,7 @@
 ---
 layout: team-member
 name: Jiayu Zhou
-title: Lab Head, Assistant Professor
+title: Lab Head, Associate Professor
 picture: /images/profile/jiayu-zhou.jpg
 email: jiayuz@msu.edu
 category: 0
