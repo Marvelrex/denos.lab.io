@@ -1,10 +1,10 @@
 ---
 layout: team-member
 name: Andy Tang
-title: Lab member since 2016, D.O-Ph.D. Student
+title: Lab member since 2016, Ph.D. Graduated in 2021
 picture: /images/profile/andy-tang.jpg
 email: tangfeng@msu.edu
-category: 1
+category: 9
 ---
 
 <br/>

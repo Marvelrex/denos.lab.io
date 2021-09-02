@@ -4,7 +4,7 @@ name: Lifan Zeng
 title: Lab member since 2018, Undergraduate Student
 picture: /images/profile/lifan-zeng.jpg
 email: zenglifa@msu.edu
-category: 2
+category: 9
 ---
 
 <br/>
