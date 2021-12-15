@@ -5,4 +5,4 @@
 - [Aug 2020] Two papers accepted by ICDM 2020.
 - [Jul 2020] Qi and Kaixiang have suceessful defended their dissertations and joined Facebook and Amazon, respectively. Congratulations! 
 
-**Opening**: ILLIDAN lab is currently looking for motivated Ph.D. students and post-doctoral researchers on machine learning research. Interested candidates please [email](mailto:jiayuz@msu.edu) your CV and transcripts.
+**Opening**: ILLIDAN lab is currently looking for motivated Ph.D. students and post-doctoral researchers on machine learning research. Check the [whitepaper](whitepaper.pdf) for details of research, life at ILLIDAN lab. Interested candidates please [email](mailto:jiayuz@msu.edu) your CV and transcripts.
