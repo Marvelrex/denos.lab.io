@@ -1,5 +1,5 @@
 ---
-layout: team-member
+layout: team-nonmember
 name: Jiahua Chen
 title: Visited in 2018, Master student in UMich
 picture: /images/profile/jiahua-chen.jpg

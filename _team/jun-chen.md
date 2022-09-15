@@ -1,10 +1,10 @@
 ---
-layout: team-member
+layout: team-nonmember
 name: Jun Chen
 title: Visiting since 2017, Ph.D. student in UMich
 picture: /images/profile/jun-chen.jpg
 email: junnchen@umich.edu
-category: 3
+category: 9
 ---
 
 <br/>

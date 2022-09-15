@@ -1,5 +1,5 @@
 ---
-layout: team-member
+layout: team-nonmember
 name: Liyang Xie
 title: Lab member since 2016, M.Sc graduated in 2019
 picture: /images/profile/liyang-xie.jpg

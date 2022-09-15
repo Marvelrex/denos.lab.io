@@ -1,5 +1,5 @@
 ---
-layout: team-member
+layout: team-nonmember
 name: Lisa Kelly
 title: Volunteered 2018-2019, graduate from MSU
 picture: /images/profile/lisa-kelly.jpg

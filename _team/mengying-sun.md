@@ -1,10 +1,10 @@
 ---
 layout: team-member
 name: Mengying Sun
-title: Lab member since 2016, Ph.D. Student
+title: Lab member since 2016, Ph.D. Graduated in 2022
 picture: /images/profile/mengying-sun.jpg
 email: sunmeng2@msu.edu
-category: 1
+category: 8
 ---
 
 <br/>

@@ -1,10 +1,10 @@
 ---
-layout: team-member
+layout: team-nonmember
 name: He Zhu
-title: Consultant since 2018, Cisco Systems
+title: Consultant since 2018, University of Calgary
 picture: /images/profile/he-zhu.jpg
 email: zhuheec@gmail.com
-category: 3
+category: 9
 ---
 
 <br/>

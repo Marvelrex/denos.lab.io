@@ -1,10 +1,10 @@
 ---
 layout: team-member
 name: Zhuangdi Zhu
-title: Lab member since 2018, Ph.D. Student
+title: Lab member since 2018, Ph.D. Graduated in 2022
 picture: /images/profile/zhuangdi-zhu.jpg
 email: zhuzhuan@msu.edu
-category: 1
+category: 8
 ---
 
 <br/>

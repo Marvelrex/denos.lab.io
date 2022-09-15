@@ -242,12 +242,6 @@
           {% endif %}
         {% endfor %}
        <br/>
-       <!-- <h6 class="docs-header">Undergraduate Interns</h6>
-          <ul>
-             <li>Kangjie Mi, 2017 Spring</li>
-             <li>Jonathan Dowdall, 2017 Spring</li>
-          </ul>
-       <br/> -->
        <h6 class="docs-header">Visitor</h6>
         {% for group in groups %}
           {% if group.name == "3" %}
@@ -259,6 +253,16 @@
         {% endfor %}
        <br/>
        <h6 class="docs-header">Alumni</h6>
+        {% for group in groups %}
+          {% if group.name == "8" %}
+            <!-- <h4>{{ group.name }}</h4> -->
+            {% for member in group.items %}
+              {{ member.output }}
+            {% endfor %}
+          {% endif %}
+        {% endfor %}
+       <br/>
+       <h6 class="docs-header">Friends</h6>
         {% for group in groups %}
           {% if group.name == "9" %}
             <!-- <h4>{{ group.name }}</h4> -->

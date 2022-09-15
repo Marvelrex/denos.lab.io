@@ -1,5 +1,5 @@
 ---
-layout: team-member
+layout: team-nonmember
 name: Laura Danila
 title: Summer Intern in 2019
 picture: /images/profile/laura-danila.jpg

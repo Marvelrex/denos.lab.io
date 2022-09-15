@@ -1,10 +1,10 @@
 ---
-layout: team-member
+layout: team-nonmember
 name: Matthew Dirisio
 title: Professorial Assistant since 2020, MSU
 picture: /images/profile/matt-dirisio.jpg
 email: dirisiom@msu.edu
-category: 3
+category: 9
 ---
 
 <br/>

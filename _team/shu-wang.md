@@ -1,5 +1,5 @@
 ---
-layout: team-member
+layout: team-nonmember
 name: Shu Wang
 title: Visiting/consultant since 2016, Ph.D. student in Rugters
 picture: /images/profile/shu-wang.jpg

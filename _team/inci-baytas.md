@@ -4,7 +4,7 @@ name: Inci Baytas
 title: Lab member since 2015, Ph.D. Graduated in 2019
 picture: /images/profile/inci-baytas.jpg
 email: baytasin@msu.edu
-category: 9
+category: 8
 ---
 
 <br/>

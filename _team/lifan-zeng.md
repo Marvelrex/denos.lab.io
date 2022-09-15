@@ -1,5 +1,5 @@
 ---
-layout: team-member
+layout: team-nonmember
 name: Lifan Zeng
 title: Lab member since 2018, Undergraduate Student
 picture: /images/profile/lifan-zeng.jpg

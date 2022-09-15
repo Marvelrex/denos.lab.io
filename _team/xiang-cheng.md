@@ -1,5 +1,5 @@
 ---
-layout: team-member
+layout: team-nonmember
 name: Xiang Cheng
 title: Visited in 2017 summer, undergrad in Uni. of Glasgow
 picture: /images/profile/xiang-cheng.jpg

@@ -4,7 +4,7 @@ name: Ikechukwu Uchendu
 title: Lab member since 2018, M.S. Graduated in 2020
 picture: /images/profile/ike-uchendu.jpg
 email: uchendui@msu.edu
-category: 9
+category: 8
 ---
 
 <br/>
