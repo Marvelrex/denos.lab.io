@@ -132,9 +132,9 @@ a:hover {
   left: 5px; }
 .team-nonmember {
   position: relative; 
-  margin-top: 4rem; }
+  margin-top: 1rem; }
 .team-nonmember-header {
-  font-weight: 600;
+  font-weight: 100;
   margin-top: 1.5rem;
   margin-bottom: .5rem; }
 .team-nonmember-description {
