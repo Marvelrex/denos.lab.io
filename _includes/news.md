@@ -1,9 +1,7 @@
+- [2023] [Call for Participation] Please join our first <a href="https://fl4data-mining.github.io/" target="_blank">International Workshop on Federated Learning for Distributed Data Mining</a>, co-located with KDD'23, August 7th, Long Beach, California.
+- [2023] Our AI Center for Drug Discovery has been approved by MSU Research Foundation Grants! 
+- [2023] Our <a href="https://arxiv.org/abs/2009.07888" target="_blank">transfer learning survey</a> is accepted by Transactions on Pattern Analysis and Machine Intelligence. 
+- [2023] Our team is among the Final Winners of <a herf="https://petsprizechallenges.com/" target="_blank">Privacy-Enhancing Techologies (PETs)</a> Prize Challenges, highlighted in the <a href="https://www.youtube.com/watch?v=8nRs3VArnco&t=12544s">Summit for Democracy</a> by the White House. 
 - [2022] Check out our ICLR work on <a href="https://openreview.net/forum?id=_QLmakITKg" target="_blank">On-Demand Customization of Robustness</a> in federated learning! 
-- [2021] Two papers accepted by ICML, two papers by KDD, one paper by IJCAI, one paper by MobiSys.
-- [Dec 2020] One paper accepted by AAAI 2021.
-- [Sep 2020] Check out our latest <a href="https://arxiv.org/abs/2009.07888" target="_blank">transfer learning review</a>.
-- [Sep 2020] One paper accepted by NeurIPS 2020. 
-- [Aug 2020] Two papers accepted by ICDM 2020.
-- [Jul 2020] Qi and Kaixiang have suceessful defended their dissertations and joined Facebook and Amazon, respectively. Congratulations! 
 
 **Opening**: ILLIDAN lab is currently looking for motivated Ph.D. students and post-doctoral researchers on machine learning research. Check the [whitepaper](whitepaper.pdf) for details of research, life at ILLIDAN lab. Interested candidates please [email](mailto:jiayuz@msu.edu) your CV and transcripts.
