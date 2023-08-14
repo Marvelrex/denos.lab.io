@@ -1,10 +1,10 @@
 ---
 layout: team-member
 name: Hoàng Cao Bảo
-title: Professorial Assistant since 2021, MSU
+title: Lab member since 2021, B.S. Student
 picture: /images/profile/hoang-cao-bao.jpg
 email: hoangbao@msu.edu
-category: 3
+category: 1
 ---
 
 <br/>
