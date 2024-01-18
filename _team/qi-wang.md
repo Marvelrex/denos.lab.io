@@ -1,5 +1,5 @@
 ---
-layout: team-member
+layout: team-nonmember
 name: Qi Wang
 title: Lab member since 2015, Ph.D. Graduated in 2020
 picture: /images/profile/qi-wang.jpg

@@ -1,5 +1,5 @@
 ---
-layout: team-member
+layout: team-nonmember
 name: Jianpeng Xu
 title: Lab member since 2015, Ph.D. graduated in 2016
 picture: /images/profile/jianpeng-xu.jpg

@@ -1,10 +1,10 @@
 ---
-layout: team-member
+layout: team-nonmember
 name: Sriya Kondabathula
-title: Lab member since 2023, M.Sc. Student
+title: Lab assistant, 2023, M.Sc. Student
 picture: /images/profile/sriya-kondabathula.jpg
 email: kondabat@msu.edu
-category: 1
+category: 9
 ---
 
 <br/>

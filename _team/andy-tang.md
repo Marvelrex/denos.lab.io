@@ -1,5 +1,5 @@
 ---
-layout: team-member
+layout: team-nonmember
 name: Andy Tang
 title: Lab member since 2016, Ph.D. Graduated in 2021
 picture: /images/profile/andy-tang.jpg

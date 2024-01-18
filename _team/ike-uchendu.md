@@ -1,5 +1,5 @@
 ---
-layout: team-member
+layout: team-nonmember
 name: Ikechukwu Uchendu
 title: Lab member since 2018, M.S. Graduated in 2020
 picture: /images/profile/ike-uchendu.jpg

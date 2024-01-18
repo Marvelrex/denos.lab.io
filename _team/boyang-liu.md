@@ -1,5 +1,5 @@
 ---
-layout: team-member
+layout: team-nonmember
 name: Boyang Liu
 title: Lab member since 2017, Ph.D. Graduated in 2022
 picture: /images/profile/boyang-liu.jpg

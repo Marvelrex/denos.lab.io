@@ -1,5 +1,5 @@
 ---
-layout: team-member
+layout: team-nonmember
 name: Mengying Sun
 title: Lab member since 2016, Ph.D. Graduated in 2022
 picture: /images/profile/mengying-sun.jpg

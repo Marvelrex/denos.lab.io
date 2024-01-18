@@ -1,5 +1,5 @@
 ---
-layout: team-member
+layout: team-nonmember
 name: Zhuangdi Zhu
 title: Lab member since 2018, Ph.D. Graduated in 2022
 picture: /images/profile/zhuangdi-zhu.jpg

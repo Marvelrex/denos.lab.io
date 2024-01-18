@@ -1,10 +1,10 @@
 ---
 layout: team-member
 name: Junyuan Hong
-title: Lab member since 2018, Ph.D. Student
+title: Lab member since 2018, Ph.D. Graduated in 2021
 picture: /images/profile/junyuan-hong.jpg
 email: hongju12@msu.edu
-category: 1
+category: 8
 ---
 
 <br/>
