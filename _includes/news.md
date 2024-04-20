@@ -1,3 +1,4 @@
+- [2024] Check out our <a href="https://dl.acm.org/doi/10.1145/3659205" target="_blank">topology-aware federated learning survey</a> accepted by ACM Computing Surveys. 
 - [2023] [Call for Participation] Please join our first <a href="https://fl4data-mining.github.io/" target="_blank">International Workshop on Federated Learning for Distributed Data Mining</a>, co-located with KDD'23, August 7th, Long Beach, California.
 - [2023] Our AI Center for Drug Discovery has been approved by MSU Research Foundation Grants! 
 - [2023] Our <a href="https://arxiv.org/abs/2009.07888" target="_blank">transfer learning survey</a> is accepted by Transactions on Pattern Analysis and Machine Intelligence. 
