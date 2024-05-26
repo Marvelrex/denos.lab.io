@@ -1,3 +1,4 @@
+- [2024] [Call for Participation] Please join our first <a href="https://fedkdd.github.io/" target="_blank">FedKDD: International Joint Workshop on Federated Learning for Data Mining and Graph Analytics</a>, co-located with KDD'24, August 25-26th, Centre de Convencions Internacional de Barcelona, Spain.
 - [2024] Check out our <a href="https://dl.acm.org/doi/10.1145/3659205" target="_blank">topology-aware federated learning survey</a> accepted by ACM Computing Surveys and selected in the <a href="https://www.growkudos.com/publications/10.1145%25252F3659205/reader">ACM Showcase</a>. 
 - [2023] [Call for Participation] Please join our first <a href="https://fl4data-mining.github.io/" target="_blank">International Workshop on Federated Learning for Distributed Data Mining</a>, co-located with KDD'23, August 7th, Long Beach, California.
 - [2023] Our AI Center for Drug Discovery has been approved by MSU Research Foundation Grants! 
