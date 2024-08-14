@@ -6,4 +6,6 @@
 - [2023] Our team is among the Final Winners of <a herf="https://petsprizechallenges.com/" target="_blank">Privacy-Enhancing Techologies (PETs)</a> Prize Challenges, highlighted in the <a href="https://www.youtube.com/watch?v=8nRs3VArnco&t=12544s">Summit for Democracy</a> by the White House. 
 - [2022] Check out our ICLR work on <a href="https://openreview.net/forum?id=_QLmakITKg" target="_blank">On-Demand Customization of Robustness</a> in federated learning! 
 
-**Opening**: ILLIDAN lab is currently looking for motivated Ph.D. students and post-doctoral researchers on machine learning research. Check the [whitepaper](whitepaper.pdf) for details of research, life at ILLIDAN lab. Interested candidates please [email](mailto:jiayuz@msu.edu) your CV and transcripts.
+**Opening**: ILLIDAN lab is currently looking for motivated Ph.D. students and post-doctoral researchers on AI + Health research. Interested candidates please [email](mailto:jiayuz@umich.edu) your CV and transcripts. 
+<!-- Check the [whitepaper](whitepaper.pdf) for details of research, life at ILLIDAN lab. -->
+
