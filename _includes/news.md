@@ -4,6 +4,4 @@
 - [2024] Check out our <a href="https://dl.acm.org/doi/10.1145/3659205" target="_blank">topology-aware federated learning survey</a> accepted by ACM Computing Surveys and selected in the <a href="https://www.growkudos.com/publications/10.1145%25252F3659205/reader">ACM Showcase</a>. 
 
 
-**Opening**: ILLIDAN lab is currently looking for motivated Ph.D. students and post-doctoral researchers on AI + Health research. Interested candidates please [email](mailto:jiayuz@umich.edu) your CV and transcripts. 
-<!-- Check the [whitepaper](whitepaper.pdf) for details of research, life at ILLIDAN lab. -->
-
+**Opening**: ILLIDAN lab is currently looking for motivated Ph.D. students and post-doctoral researchers on machine learning and AI + Health research. Interested candidates please apply to our <a href="https://www.si.umich.edu/programs/phd-information" target="_blank">PhD in Informatics program</a> following the instructions <a href="https://www.si.umich.edu/programs/phd-information/how-do-i-apply" target="_blank">here</a> and mention me in your application. 
