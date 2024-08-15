@@ -1,7 +1,7 @@
 ---
 layout: team-member
 name: Shuyang Yu
-title: Lab member since 2020, Ph.D. Student
+title: Ph.D. Student, 2020-
 picture: /images/profile/shuyang-yu.jpg
 email: yushuyan@msu.edu
 category: 1

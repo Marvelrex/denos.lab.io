@@ -1,7 +1,7 @@
 ---
 layout: team-nonmember
 name: Ikechukwu Uchendu
-title: Lab member since 2018, M.S. Graduated in 2020
+title: M.S. Student 2018 - 2020, currently Ph.D. student at Harvard University
 picture: /images/profile/ike-uchendu.jpg
 email: uchendui@msu.edu
 category: 8

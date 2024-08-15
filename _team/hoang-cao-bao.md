@@ -1,12 +1,12 @@
 ---
 layout: team-member
 name: Hoàng Cao Bảo
-title: Lab member since 2021, B.S. Student
+title: B.S. Student, 2021-
 picture: /images/profile/hoang-cao-bao.jpg
 email: hoangbao@msu.edu
 category: 1
 ---
 
 <br/>
-Areas of Study: natural language and dementia
+Areas of Study: AI+Health, natural language processing
 <br/>

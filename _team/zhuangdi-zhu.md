@@ -1,7 +1,7 @@
 ---
 layout: team-nonmember
 name: Zhuangdi Zhu
-title: Lab member since 2018, Ph.D. Graduated in 2022
+title: Ph.D. Student 2018 - 2022, currently assistant professor at George Mason University
 picture: /images/profile/zhuangdi-zhu.jpg
 email: zhuzhuan@msu.edu
 category: 8

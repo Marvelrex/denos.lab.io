@@ -1,7 +1,7 @@
 ---
 layout: team-nonmember
 name: Andy Tang
-title: Lab member since 2016, Ph.D. Graduated in 2021
+title: D.O.-Ph.D. Student 2016 - 2021. First employment - Research Scientist at Amplitude
 picture: /images/profile/andy-tang.jpg
 email: tangfeng@msu.edu
 category: 8

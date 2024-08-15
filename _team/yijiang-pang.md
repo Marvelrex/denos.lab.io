@@ -1,7 +1,7 @@
 ---
 layout: team-member
 name: Yijiang Pang
-title: Lab member since 2021, Ph.D. Student
+title: Ph.D. Student, 2021-
 picture: /images/profile/yijiang-pang.jpg
 email: pangyiji@msu.edu
 category: 1

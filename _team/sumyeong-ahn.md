@@ -1,10 +1,10 @@
 ---
-layout: team-member
+layout: team-nonmember
 name: Sumyeong Ahn
-title: Lab member since 2023, Postdoctoral resesarcher
+title: Postdoc 2023-2024, currently assistant professor at Kentech University
 picture: /images/profile/sumyeong-ahn.jpg
 email: sumyeongahn@kaist.ac.kr
-category: 1
+category: 8
 ---
 
 <br/>

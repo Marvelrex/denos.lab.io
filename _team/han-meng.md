@@ -1,7 +1,7 @@
 ---
 layout: team-nonmember
 name: Han Meng
-title: Lab member since 2022, M.Sc. Student
+title: M.S. student 2022 - 2024, currently Ph.D. student at William Mary
 picture: /images/profile/han-meng.jpg
 email: menghan1@msu.edu
 category: 8

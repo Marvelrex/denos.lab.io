@@ -1,7 +1,7 @@
 ---
 layout: team-nonmember
 name: Jianpeng Xu
-title: Lab member since 2015, Ph.D. graduated in 2016
+title: Ph.D. student - 2016. First employment - Walmart Labs
 picture: /images/profile/jianpeng-xu.jpg
 email: jianpeng.xu@gmail.com
 category: 8

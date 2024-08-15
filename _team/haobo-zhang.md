@@ -1,7 +1,7 @@
 ---
 layout: team-member
 name: Haobo Zhang
-title: Lab member since 2022, Ph.D. Student
+title: Ph.D. Student, 2022-
 picture: /images/profile/haobo-zhang.jpg
 email: zhan2060@msu.edu
 category: 1

@@ -1,7 +1,7 @@
 ---
 layout: team-nonmember
 name: Mengying Sun
-title: Lab member since 2016, Ph.D. Graduated in 2022
+title: Ph.D. Student 2016 - 2022. First employment - Research Scientist at Meta
 picture: /images/profile/mengying-sun.jpg
 email: sunmeng2@msu.edu
 category: 8

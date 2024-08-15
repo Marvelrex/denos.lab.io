@@ -1,7 +1,7 @@
 ---
 layout: team-nonmember
 name: Kaixiang Lin
-title: Lab member since 2015, Ph.D. Graduated in 2020
+title: Ph.D. Student 2015 - 2020. First employment - research scientist at Amazon 
 picture: /images/profile/kaixiang-lin.jpg
 email: linkaixi@msu.edu
 category: 8

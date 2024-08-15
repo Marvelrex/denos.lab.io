@@ -1,7 +1,7 @@
 ---
 layout: team-member
 name: Siqi Liang
-title: Lab member since 2022, Ph.D. Student
+title: Ph.D. Student, 2022-
 picture: /images/profile/siqi-liang.jpeg
 email: liangsi4@msu.edu
 category: 1

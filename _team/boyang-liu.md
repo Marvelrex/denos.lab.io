@@ -1,7 +1,7 @@
 ---
 layout: team-nonmember
 name: Boyang Liu
-title: Lab member since 2017, Ph.D. Graduated in 2022
+title: Ph.D. Student 2017 - 2022. First employment - Research Scientist at Meta
 picture: /images/profile/boyang-liu.jpg
 email: bliu24@buffalo.edu
 category: 8

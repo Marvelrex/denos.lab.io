@@ -1,7 +1,7 @@
 ---
 layout: team-nonmember
 name: Inci Baytas
-title: Lab member since 2015, Ph.D. Graduated in 2019
+title: Ph.D. Student 2015-2019, currently assistant professor at Bogazici University, Turkey
 picture: /images/profile/inci-baytas.jpg
 email: baytasin@msu.edu
 category: 8
