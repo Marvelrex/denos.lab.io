@@ -1,2 +1,5 @@
 collections:
-  - team
+  team:
+    output: false
+  papers:
+    output: false
