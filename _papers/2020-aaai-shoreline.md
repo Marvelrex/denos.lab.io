@@ -5,5 +5,5 @@ authors: "Xitong Zhang, He Zhu, and Jiayu Zhou"
 venue: "AAAI"
 year: 2020
 paper_url: "https://ojs.aaai.org/index.php/AAAI/article/view/5472"
-type: "selected"
+type: "normal"
 ---

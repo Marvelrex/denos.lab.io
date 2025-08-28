@@ -5,5 +5,5 @@ authors: "*Jianpeng Xu, Jiayu Zhou, and Pang-Ning Tan"
 venue: "SDM"
 year: 2015
 paper_url: "papers/jzhouSDM15b.pdf"
-type: "selected"
+type: "normal"
 ---

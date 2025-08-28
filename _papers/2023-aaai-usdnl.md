@@ -6,5 +6,5 @@ venue: "AAAI"
 year: 2023
 paper_url: "#"
 paper_label: "to appear"
-type: "selected"
+type: "normal"
 ---

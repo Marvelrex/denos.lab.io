@@ -6,5 +6,5 @@ venue: "NetSoft"
 year: 2018
 paper_url: "https://arxiv.org/abs/1801.04035"
 paper_label: "arXiv"
-type: "selected"
+type: "normal"
 ---
