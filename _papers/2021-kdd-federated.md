@@ -5,6 +5,6 @@ authors: "Junyuan Hong, Zhuangdi Zhu, Shuyang Yu, Zhangyang Wang, Hiroko Dodge, 
 venue: "KDD"
 year: 2021
 paper_url: "https://dl.acm.org/doi/10.1145/3447548.3467281"
-code_url: "https://github.com/illidanlab/FADE"
+code_url: "https://github.com/DENOSlab/FADE"
 type: "selected"
 ---

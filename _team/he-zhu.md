@@ -1,10 +1,10 @@
 ---
-layout: team-nonmember
-name: He Zhu
-title: Consultant since 2018, University of Calgary
+layout: team-member
+name: Steve Zhu
+title: Lab Head, Professor, University of Calgary
 picture: /images/profile/he-zhu.jpg
 email: zhuheec@gmail.com
-category: 9
+category: 0
 ---
 
 <br/>

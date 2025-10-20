@@ -3,3 +3,6 @@ collections:
     output: false
   papers:
     output: false
+exclude:
+  - venv
+  - .idea

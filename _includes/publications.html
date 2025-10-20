@@ -17,6 +17,7 @@ Expected front matter fields per paper:
 
 {%- if preprints and preprints.size > 0 -%}
   <h6 class="docs-header">Recent Preprints</h6>
+  <!--
   <ul>
   {%- for p in preprints -%}
     <li>
@@ -29,10 +30,12 @@ Expected front matter fields per paper:
     </li>
   {%- endfor -%}
   </ul>
+  -->
 {%- endif -%}
 
 {%- if selected and selected.size > 0 -%}
   <h6 class="docs-header">Selected Publications</h6>
+  <!--
   <ul>
   {%- for p in selected -%}
     <li>
@@ -45,5 +48,6 @@ Expected front matter fields per paper:
     </li>
   {%- endfor -%}
   </ul>
+  -->
 {%- endif -%}
 {%- endif -%}

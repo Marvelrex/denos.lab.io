@@ -1,4 +1,4 @@
-## Technical Interview in ILLIDAN Lab 
+## Technical Interview in DENOS Lab 
 
 If you are shortlisted for a technical interview for our doctoral positions, we will email you in Dec or Jan for details (for Fall candidates). The interview is typically 1 hour in length and has several components. 
 * [10 minutes] A brief **introduction** of yourself, your background, research interest, and your career goals. 
@@ -15,4 +15,4 @@ If you are shortlisted for a technical interview for our doctoral positions, we 
   - _Theoretical analysis_. At your best effort, understand the details of the analysis.
   - _Your criticism_. What do you think are the weaknesses of the paper, and how do you think they can further improve?
   Note that it is perfectly fine if you cannot understand every detail. Do not lose yourself in some hard theorems, especially when you lack basic knowledge. But we still expect that you can try to find out the background knowledge and pick them up as much as possible.
-* [10 minutes] Answer your **questions** about the US, MSU, and ILLIDAN Lab. 
+* [10 minutes] Answer your **questions** about the US, MSU, and DENOS Lab. 

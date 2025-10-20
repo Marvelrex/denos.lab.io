@@ -1,7 +1,7 @@
-illidanlab.github.io
+denos.github.io
 ==================
 
-This is the website of the ILLIDAN Lab group.
+This is the website of the DENOS Lab group.
 
 Maintenance Instructions
 ------------------------
